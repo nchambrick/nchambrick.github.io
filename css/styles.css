@@ -42,4 +42,15 @@ navbar {
         background-color: rgb(109, 58, 6);
         color: white;
         text-align: center;
+        padding-top: 1%;
+        padding-bottom: 1%;
       }
+
+      h4 {
+        color: rgb(109, 58, 6);
+      }
+
+      strong
+      {color: darkgreen;}
+
+      p {color: dimgray;}
