@@ -27,8 +27,14 @@ navbar {
       }
       
       body {
-        background-color: rgb(240, 238, 235)
-      }
+        background-color: rgb(240, 238, 235);
+      
+          padding: 20px; }
+        
+        .container {
+          padding: 20px;
+        }
+      
 
       div {
         padding-top: 2px;
